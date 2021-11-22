@@ -17,3 +17,4 @@ pytest
 pytest-cov
 safety
 python-dotenv
+click<7.2.0,>=7.1.1
